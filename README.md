@@ -14,6 +14,6 @@ Goal: Reach The Top Floor!
 
 extra goals:
 
--Achieve highest floor
+-achieve highest floor
 
 -reach top floor with least amount of vists

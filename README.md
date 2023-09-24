@@ -8,8 +8,12 @@ Each stat affects combat in different ways.
 
 
 
+
 Goal: Reach The Top Floor!
 
+
 extra goals:
+
 -Achieve highest floor
+
 -reach top floor with least amount of vists
